@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b2da3f-075b-4dd4-bf6f-f096bbaedb76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/StarRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearnScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarRecursion.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XzeDBULsJ7n5Qk2HX77AiBBtOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarRecursion" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMethodsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringMethodsDemo" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.StarRecursion" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.StringMethodsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b2da3f-075b-4dd4-bf6f-f096bbaedb76" name="Default Changelist" comment="" />
+      <created>1582053228176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582053228176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom" timestamp="1583904926602">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom/-258.-1057.1920.1057/0.23.1440.877@-258.-1057.1920.1057" timestamp="1583364619671" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904926602" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.23.1440.877/-252.-1057.1920.1057@0.23.1440.877" timestamp="1583341280541" />
+    <state width="678" height="284" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582924420271" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center" timestamp="1583904926601">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.center/-258.-1057.1920.1057/0.23.1440.877@-258.-1057.1920.1057" timestamp="1583364619671" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904926601" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.23.1440.877/-252.-1057.1920.1057@0.23.1440.877" timestamp="1583341280541" />
+    <state width="678" height="284" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582924420270" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left" timestamp="1583904926601">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.left/-258.-1057.1920.1057/0.23.1440.877@-258.-1057.1920.1057" timestamp="1583364619671" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904926601" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.23.1440.877/-252.-1057.1920.1057@0.23.1440.877" timestamp="1583341280540" />
+    <state width="678" height="284" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582924420270" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right" timestamp="1583904926602">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.right/-258.-1057.1920.1057/0.23.1440.877@-258.-1057.1920.1057" timestamp="1583364619671" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904926602" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.23.1440.877/-252.-1057.1920.1057@0.23.1440.877" timestamp="1583341280541" />
+    <state width="678" height="284" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582924420270" />
+    <state x="277" y="-730" key="com.intellij.ide.util.TipDialog" timestamp="1583904528249">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="277" y="-730" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904528249" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-252.-1057.1920.1057@0.23.1440.877" timestamp="1583290240765" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-293.-1057.1920.1057@0.23.1440.877" timestamp="1582738087201" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583476045856" />
+    <state x="137" y="-906" key="new project wizard" timestamp="1583904923886">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="131" y="-906" key="new project wizard/-258.-1057.1920.1057/0.23.1440.877@-258.-1057.1920.1057" timestamp="1583364615287" />
+    <state x="137" y="-906" key="new project wizard/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904923886" />
+    <state x="262" y="-755" width="670" height="676" key="search.everywhere.popup" timestamp="1583904749900">
+      <screen x="-252" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="262" y="-755" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-252.-1057.1920.1057@-252.-1057.1920.1057" timestamp="1583904749900" />
+  </component>
+</project>
